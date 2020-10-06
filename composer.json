@@ -4,7 +4,7 @@
     "description": "English language pack.",
     "keywords": ["locale"],
     "license": "MIT",
-    "require": {
+    "require-dev": {
         "flarum/core": "dev-master"
     },
     "minimum-stability": "dev",
