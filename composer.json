@@ -5,12 +5,12 @@
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.12"
+        "flarum/core": "v0.1.0-beta.12"
     },
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.0-beta.12"
+            "dev-master": "v0.1.0-beta.12"
         },
         "flarum-extension": {
             "title": "English",
