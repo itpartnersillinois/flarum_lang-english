@@ -7,6 +7,12 @@
     "require-dev": {
         "flarum/core": "dev-master"
     },
+    "repositories": {
+        "flarum_core": {
+            "type": "vcs",
+            "url": "https://github.com/itpartnersillinois/flarum_core"
+        }
+    },
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
